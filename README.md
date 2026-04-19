@@ -6,6 +6,10 @@ A clean, modern, glassmorphic portfolio website built with pure HTML and CSS. No
 
 ## Preview
 
+<!-- Screenshot goes here -->
+
+&nbsp;
+
 Open `index.html` in your browser to view locally.
 
 ## Features
