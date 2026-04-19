@@ -1,12 +1,11 @@
-<img width="1366" height="2554" alt="screencapture-127-0-0-1-5500-index-html-2026-04-19-19_43_49" src="https://github.com/user-attachments/assets/10275caf-327d-4cef-9878-cd21b6a9cdbf" /># Tursina Yisehak — Personal Portfolio
+# Tursina Yisehak — Personal Portfolio
 
 A clean, modern, glassmorphic portfolio website built with pure HTML and CSS. No frameworks, no dependencies — just well-structured markup and styling.
 
 🔗 **Repo:** [github.com/tuyy-99/portfolio1](https://github.com/tuyy-99/portfolio1)
 
 ## Preview
-
-<img width="348" height="633" alt="image" src="https://github.com/user-attachments/assets/ef17bde5-078d-4277-951a-d5c4b7f64aa3" />
+<img width="1366" height="2554" alt="screencapture-127-0-0-1-5500-index-html-2026-04-19-19_43_49" src="https://github.com/user-attachments/assets/10275caf-327d-4cef-9878-cd21b6a9cdbf" />
 
 &nbsp;
 
