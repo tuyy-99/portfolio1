@@ -5,8 +5,8 @@ A clean, modern, glassmorphic portfolio website built with pure HTML and CSS. No
 🔗 **Repo:** [github.com/tuyy-99/portfolio1](https://github.com/tuyy-99/portfolio1)
 
 ## Preview
+![Uploading screencapture-127-0-0-1-5500-index-html-2026-04-19-19_43_49.png…]()
 
-<!-- Screenshot goes here -->
 
 &nbsp;
 
