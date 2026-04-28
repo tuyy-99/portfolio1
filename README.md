@@ -4,6 +4,8 @@ A clean, modern, glassmorphic portfolio website built with pure HTML and CSS. No
 
 🔗 **Repo:** [github.com/tuyy-99/portfolio1](https://github.com/tuyy-99/portfolio1)
 
+🌐 **Live Site:** ((https://stupendous-bonbon-8f9940.netlify.app/)) 
+
 ## Preview
 <img width="1366" height="2554" alt="screencapture-127-0-0-1-5500-index-html-2026-04-19-19_43_49" src="https://github.com/user-attachments/assets/10275caf-327d-4cef-9878-cd21b6a9cdbf" />
 
